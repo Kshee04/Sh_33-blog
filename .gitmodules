@@ -1,0 +1,3 @@
+[submodule "themes/stargazer"]
+	path = themes/stargazer
+	url = https://github.com/Blackstareye/stargazer-layout.git
